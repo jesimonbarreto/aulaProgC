@@ -1,5 +1,5 @@
 # Aula programação básica em C
-Códigos usados durante a aula sobre programação em linguagem C para alunos de Engenharia de Sistemas da Universidade Federal de Minas Gerais(UFMG)
+Material usados para a aula sobre programação em linguagem C direcionada para alunos de Engenharia de Sistemas da Universidade Federal de Minas Gerais(UFMG).
 
 ### Indicações e Referências
 - Me salva programação em C: https://www.youtube.com/watch?v=MIzsyY505uo&list=PLf1lowbdbFIDP_aNIU7ZIe5Jc6LyoUmDa
